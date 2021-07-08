@@ -42,7 +42,7 @@ def create_series():
 def create_episodes():
     print('Ingesting episodes…')
     for media in config.get('media', []):
-        fields = [('acl', (None, json.dumps(config['acl'])))]
+        fields = [('acl', (None, acl()))]
         for field in media:
             for key, value in field.items():
                 fields.append((key, (None, value)))
