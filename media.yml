@@ -18,9 +18,10 @@ series:
   - identifier: ID-av-portal
     publisher: TIB AV-Portal Hannover
     title: AV-Portal Content
-  - identifier: ID-lars-directors-cut
+  - identifier: ID-openmedia-opencast
+    description: Media snippets published as test media for Opencast.
     publisher: Lars Kiesow
-    title: Lars Directors Cut Collection
+    title: Open Media for Opencast
 
 media:
   - - flavor: presenter/source
@@ -40,7 +41,7 @@ media:
     - identifier: ID-goat
     - source: https://data.lkiesow.io
     - created: '2018-04-21T13:14:31Z'
-    - isPartOf: ID-lars-directors-cut
+    - isPartOf: ID-openmedia-opencast
 
   - - flavor: presenter/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/3d-print.mp4
@@ -50,7 +51,7 @@ media:
     - identifier: ID-3d-print
     - source: https://data.lkiesow.io
     - created: '2021-04-17T17:22:40Z'
-    - isPartOf: ID-lars-directors-cut
+    - isPartOf: ID-openmedia-opencast
 
   - - flavor: presenter/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/marguerite-1080.mp4
@@ -60,7 +61,7 @@ media:
     - identifier: ID-marguerite
     - source: https://data.lkiesow.io
     - created: '2021-06-13T19:18:47Z'
-    - isPartOf: ID-lars-directors-cut
+    - isPartOf: ID-openmedia-opencast
 
   - - flavor: presenter/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/dog-rose-720.mp4
@@ -70,7 +71,7 @@ media:
     - identifier: ID-dog-rose
     - source: https://data.lkiesow.io
     - created: '2021-06-13T19:33:33Z'
-    - isPartOf: ID-lars-directors-cut
+    - isPartOf: ID-openmedia-opencast
 
   - - flavor: presenter/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/westerberg.mp4
@@ -81,7 +82,7 @@ media:
     - source: https://data.lkiesow.io
     - created: '2020-10-16T17:38:53Z'
     - spatial: DE, Osnabrück, Westerberg
-    - isPartOf: ID-lars-directors-cut
+    - isPartOf: ID-openmedia-opencast
 
   - - flavor: presenter/source
     - mediaUri: https://upload.wikimedia.org/wikipedia/commons/3/3f/Coffee_Run_-_Blender_Open_Movie-full_movie.webm
