@@ -48,6 +48,24 @@ media:
     - created: '2021-04-17T17:22:40Z'
 
   - - flavor: presenter/source
+    - mediaUri: https://data.lkiesow.io/opencast/test-media/marguerite-1080.mp4
+    - title: Marguerite
+    - creator: Lars Kiesow
+    - license: CC0
+    - identifier: ID-marguerite
+    - source: https://data.lkiesow.io
+    - created: '2021-06-13T19:18:47Z'
+
+  - - flavor: presenter/source
+    - mediaUri: https://data.lkiesow.io/opencast/test-media/dog-rose-720.mp4
+    - title: Dog Rose
+    - creator: Lars Kiesow
+    - license: CC0
+    - identifier: ID-dog-rose
+    - source: https://data.lkiesow.io
+    - created: '2021-06-13T19:33:33Z'
+
+  - - flavor: presenter/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/westerberg.mp4
     - title: Autum Westerberg
     - creator: Lars Kiesow
