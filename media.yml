@@ -117,6 +117,30 @@ media:
     - isPartOf: ID-wiki-commons
 
   - - flavor: presenter/source
+    - mediaUri: https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/View_of_Planet_Earth_%284K%29.webm/View_of_Planet_Earth_%284K%29.webm.360p.vp9.webm
+    - title: View of Planet Earth (4K)
+    - creator: NASA Johnson
+    - description: >
+        NASA monitors Earth's vital signs from land, air and space with a 
+        fleet of satellites and ambitious airborne and ground-based observation campaigns. 
+        The International Space Station hosts a variety of payloads and experiments supporting 
+        climate research, weather predictions, hurricane monitoring, pollution tracking, 
+        disaster response and more. For more on how NASA uses space to understand our home planet, 
+        visit: http://www.nasa.gov/earthrightnow
+        Read more on 4K in space: NASA monitors Earth's vital signs from land, air and space 
+        with a fleet of satellites and ambitious airborne and ground-based observation campaigns. 
+        The International Space Station hosts a variety of payloads and experiments supporting 
+        climate research, weather predictions, hurricane monitoring, pollution tracking, 
+        disaster response and more.
+        For more on how NASA uses space to understand our home planet, 
+        visit: http://www.nasa.gov/earthrightnow
+        Read more on 4K in space: 
+        http://www.nasa.gov/mission_pages/station/research/news/red_epic_dragon_camera
+    - identifier: ID-nasa-earth-4k
+    - license: Public Domain
+    - isPartOf: ID-wiki-commons
+
+  - - flavor: presenter/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/dualstream-presenter.mp4
     - flavor: presentation/source
     - mediaUri: https://data.lkiesow.io/opencast/test-media/dualstream-presentation.mp4
